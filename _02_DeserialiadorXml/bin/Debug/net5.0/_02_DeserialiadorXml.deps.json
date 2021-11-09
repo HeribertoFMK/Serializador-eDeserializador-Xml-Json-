@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "_02_DeserialiadorXml/1.0.0": {
+        "dependencies": {
+          "_00_Biblioteca": "1.0.0"
+        },
+        "runtime": {
+          "_02_DeserialiadorXml.dll": {}
+        }
+      },
+      "_00_Biblioteca/1.0.0": {
+        "runtime": {
+          "_00_Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_02_DeserialiadorXml/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_00_Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\bin\Debug\net5.0\_00_Biblioteca.deps.json
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\bin\Debug\net5.0\_00_Biblioteca.dll
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\bin\Debug\net5.0\ref\_00_Biblioteca.dll
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\bin\Debug\net5.0\_00_Biblioteca.pdb
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\obj\Debug\net5.0\_00_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\obj\Debug\net5.0\_00_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\obj\Debug\net5.0\_00_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\obj\Debug\net5.0\_00_Biblioteca.AssemblyInfo.cs
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\obj\Debug\net5.0\_00_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\obj\Debug\net5.0\_00_Biblioteca.dll
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\obj\Debug\net5.0\ref\_00_Biblioteca.dll
+C:\Users\Heriberto\source\repos\Serializar\_00_Biblioteca\obj\Debug\net5.0\_00_Biblioteca.pdb
